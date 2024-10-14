@@ -18,7 +18,7 @@ const Login = () => {
   };
 
   return (
-    <div className="min-h-screen flex flex-col md:flex-row items-center justify-center ">
+    <div className="min-h-screen flex flex-col md:flex-row items-stretch justify-center ">
       {/* Left Column - Login Form */}
       <div className="md:w-1/2 w-full flex justify-center items-center p-6">
         <div className="bg-white shadow-2xl rounded-3xl p-8 w-full max-w-md relative z-10">
